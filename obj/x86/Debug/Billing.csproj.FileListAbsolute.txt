@@ -1,0 +1,8 @@
+D:\projects\Dot Net\Billing\Billing\obj\x86\Debug\Billing.Properties.Resources.resources
+D:\projects\Dot Net\Billing\Billing\obj\x86\Debug\Billing.csproj.GenerateResource.Cache
+D:\projects\Dot Net\Billing\Billing\bin\Debug\Billing.exe
+D:\projects\Dot Net\Billing\Billing\bin\Debug\Billing.pdb
+D:\projects\Dot Net\Billing\Billing\obj\x86\Debug\Billing.exe
+D:\projects\Dot Net\Billing\Billing\obj\x86\Debug\Billing.pdb
+D:\projects\Dot Net\Billing\Billing\bin\Debug\MySql.Data.dll
+D:\projects\Dot Net\Billing\Billing\obj\x86\Debug\Billing.csprojResolveAssemblyReference.cache

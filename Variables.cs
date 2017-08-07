@@ -22,7 +22,6 @@ namespace Billing
         public static ArrayList a { get; set; }
         public static DataSet ds { get; set; }
         public static DataTable dt { get; set; }
-        public static DataTable dt1 { get; set; }
         public static byte[] b = new byte[0];
         public static bool bl { get; set; }
         public static int rptid { get; set; }
